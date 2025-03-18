@@ -1,24 +1,46 @@
 # Hey there! 👋 I'm Sri Vishnu B
 
-💻 **Aspiring Web Developer**
+💻 **Web Developer in the Making**
 
-I'm diving deep into **React** and **Node.js**, exploring the world of web development one project at a time. I love creating interactive web apps and learning new tech along the way.
+I'm currently diving into **React** and **Node.js**, building cool web apps and figuring out new tech as I go. I love creating stuff that’s interactive and fun to use!
 
 ## 🚀 About Me
 
-- 🔥 Passionate about **Full-Stack Development**
-- 🌱 Currently learning **React**, **Node.js**, **MySql** and **MongoDB**
-- 💬 Let's talk about **JavaScript**, **HTML/CSS**, or **APIs**
-- 📫 Reach me at: [Email](mailto\:srivishnubsv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srivishnubsv/) | [Leetcode](https://leetcode.com/srivishnubsv05)
+- 🔥 Excited about **Full-Stack Development**
+- 🌱 Learning **React**, **Node.js**, and **MongoDB**
+- 💬 Always happy to chat about **JavaScript**, **HTML/CSS**, or **APIs**
+- 📫 Reach me at: [Email](mailto\:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourhandle)
 
-## 🛠️ My Tech Stack
+## 🌐 Portfolio
 
-- **Frontend:** React.js, HTML, CSS, JavaScript , TailWind
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mysql
-- **Tools:** VS Code, Git, GitHub, Postman
+Check out my portfolio [here](https://yourportfolio.com) for some cool projects!
+
+## 📋 What I'm Up To
+
+- Building a full-stack app with the **MERN stack**
+- Getting better at state management with **Redux**
+- Exploring open-source contributions
+
+## 📫 Connect with Me
+
+
+
+
+
+## 🛠️ Languages and Tools
+
+
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+
 
 ## ⚡ Fun Fact
 
-I'm a huge fan of problem-solving and always curious about how things work behind the scenes. Let's connect and create awesome things together! 😊
+I love solving problems and figuring out how things tick. Let’s connect and build something awesome together! 😊
 
