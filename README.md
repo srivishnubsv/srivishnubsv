@@ -1,46 +1,58 @@
-# Hey there! 👋 I'm Sri Vishnu B
+<p align="center">
+  <h1>👋 Hey there! I'm <b>Sri Vishnu B</b></h1>
+  <h3>💻 Aspiring Web Developer</h3>
+</p>
 
-💻 **Web Developer in the Making**
+## 🚀 **About Me**  
+🔥 Passionate about **Full-Stack Development**  
+🌱 Currently learning **React, Node.js, MySQL, and MongoDB**  
+💡 Interested in **JavaScript, APIs, and scalable web applications**  
+## 📫 **Reach Me At**  
 
-I'm currently diving into **React** and **Node.js**, building cool web apps and figuring out new tech as I go. I love creating stuff that’s interactive and fun to use!
+<p ">
+  <a href="mailto:srivishnubsv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/srivishnubsv">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/srivishnubsv05">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+  
 
-## 🚀 About Me
+---
 
-- 🔥 Excited about **Full-Stack Development**
-- 🌱 Learning **React**, **Node.js**, and **MongoDB**
-- 💬 Always happy to chat about **JavaScript**, **HTML/CSS**, or **APIs**
-- 📫 Reach me at: [Email](mailto\:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Twitter](https://twitter.com/yourhandle)
+## 🛠️ **Tech Stack**  
 
-## 🌐 Portfolio
+### **Frontend:**  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>  
 
-Check out my portfolio [here](https://yourportfolio.com) for some cool projects!
+### **Backend:**  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>  
 
-## 📋 What I'm Up To
+### **Database:**  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>  
 
-- Building a full-stack app with the **MERN stack**
-- Getting better at state management with **Redux**
-- Exploring open-source contributions
+### **Tools & DevOps:**  
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>  
 
-## 📫 Connect with Me
-
-
-
-
-
-## 🛠️ Languages and Tools
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-
-
-## ⚡ Fun Fact
-
-I love solving problems and figuring out how things tick. Let’s connect and build something awesome together! 😊
-
+---
